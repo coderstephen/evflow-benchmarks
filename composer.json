@@ -1,0 +1,13 @@
+{
+    "name": "evflow/benchmarks",
+    "require": {
+        "athletic/athletic": "0.1.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "coderstephen",
+            "email": "me@stephencoakley.com"
+        }
+    ]
+}
