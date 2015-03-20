@@ -9,5 +9,10 @@
     ],
     "require": {
         "athletic/athletic": "0.1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Evflow\\Benchmarks\\": "src"
+        }
     }
 }
