@@ -2,6 +2,10 @@
 A collection of benchmarks and testing scripts for Evflow and asynchronous code
 techniques in general.
 
+## Usage
+Benchmarks are measured using [Athletic](https://github.com/polyfractal/athletic).
+You can run all benchmarks using the `./runall` script.
+
 ## Current observations
 Below are some current results for some of the benchmarks in this package.
 
